@@ -61,19 +61,19 @@ The dataset contains metadata for approximately 5000 movies collected from The M
 
 The dataset primarily contains:
 
-*Hollywood movies
-*English-language films
-*International movies from different countries
+-Hollywood movies
+-English-language films
+-International movies from different countries
 
 It mainly focuses on Hollywood cinema and includes popular movies from genres such as:
 
-*Action
-*Adventure
-*Science Fiction
-*Comedy
-*Drama
-*Thriller
-*Fantasy
+-Action
+-Adventure
+-Science Fiction
+-Comedy
+-Drama
+-Thriller
+-Fantasy
 
 The dataset contains very limited Bollywood movie data, so this recommendation system is mainly optimized for Hollywood movie recommendations.
 
