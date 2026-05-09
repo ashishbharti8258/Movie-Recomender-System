@@ -53,7 +53,29 @@ The system analyzes movie metadata and computes similarity scores between movies
 
 Dataset used:
 
-* TMDB 5000 Movies Dataset
+TMDB 5000 Movies Dataset
+
+This project uses the TMDB 5000 Movies Dataset, downloaded from Kaggle
+.
+The dataset contains metadata for approximately 5000 movies collected from The Movie Database (TMDb).
+
+The dataset primarily contains:
+
+Hollywood movies
+English-language films
+International movies from different countries
+
+It mainly focuses on Hollywood cinema and includes popular movies from genres such as:
+
+Action
+Adventure
+Science Fiction
+Comedy
+Drama
+Thriller
+Fantasy
+
+The dataset contains very limited Bollywood movie data, so this recommendation system is mainly optimized for Hollywood movie recommendations.
 
 Main columns used:
 
