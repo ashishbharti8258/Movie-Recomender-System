@@ -71,7 +71,9 @@ It mainly focuses on Hollywood cinema and includes popular movies from genres su
 - Drama
 - Thriller
 - Fantasy
-#Main columns used:
+
+
+  Main columns used:
 1. Genres
 2. Title
 3. Overview
