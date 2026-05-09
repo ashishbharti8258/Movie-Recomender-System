@@ -49,7 +49,7 @@ The system analyzes movie metadata and computes similarity scores between movies
 
 ---
 
-# 📂 Dataset
+# Dataset
 
 Dataset used:
 
@@ -68,7 +68,7 @@ Main columns used:
 
 ---
 
-# ⚙️ Project Workflow
+# Project Workflow
 
 ## 1. Data Loading
 
@@ -153,7 +153,7 @@ Saved files:
 
 ---
 
-# 📊 Recommendation Example
+#  Recommendation Example
 
 Input Movie:
 
@@ -171,7 +171,7 @@ Output:
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```bash
 Movie-Recommender-System/
